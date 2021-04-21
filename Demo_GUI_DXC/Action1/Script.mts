@@ -9,7 +9,7 @@ Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("CartItems")
 Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("RemoveItems").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("WebElement 2")_;_script infofile_;_ZIP::ssf5.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME")_;_script infofile_;_ZIP::ssf6.xml_;_
 
-foo = 1
+'foo = 1
 
 
  @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("Link")_;_script infofile_;_ZIP::ssf7.xml_;_
